@@ -1,0 +1,76 @@
+[
+     {
+        "firstName":"Sinoyolo",
+        "lastName": "Ngavu",
+        "favHobby":"Producing",
+        "Criminal": false,
+        "dreamCars":[
+            {
+                "carName":"Bmw",
+                "engineCapacity":3,
+                "model": "amg"           
+            },
+            {
+                "carName":"mercedes",
+                "engineCapacity":3,
+                "model": "latest edition"      
+            }
+        ]
+         
+     },
+     {
+        "firstName":"Anele",
+        "lastName": "Mboyiya",
+        "favHobby":"Listening to gospel",
+        "criminal":"True",
+        "dreamCars":[
+            {
+                "carName":"golf",
+                "engineCapacity":3,
+                "model": "latest edition"           
+            },
+            {
+                "carName":"mercedes",
+                "engineCapacity":3,
+                "model": "latest edition"      
+            }
+        ]
+         
+     },
+     {
+        "firstName":"Mulalo",
+        "lastName": "Mabuda",
+        "favHobby":"laughing",
+        "dreamCars":[
+            {
+                "carName":"BUS",
+                "engineCapacity":3,
+                "model": "latest edition"           
+            },
+            {
+                "carName":"mercedes",
+                "engineCapacity":3,
+                "model": "latest edition"      
+            }
+        ]
+         
+     },
+     {
+        "firstName":"Mila",
+        "lastName": "youmg girls",
+        "favHobby":"Producing",
+        "dreamCars":[
+            {
+                "carName":"Bmw",
+                "engineCapacity":3,
+                "model": "amg"           
+            },
+            {
+                "carName":"mercedes",
+                "engineCapacity":3,
+                "model": "latest edition"      
+            }
+        ]
+         
+     }
+]
